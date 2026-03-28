@@ -14,6 +14,3 @@ Asked for help interpreting assignment requirements, repository setup, and noteb
 - Suggested folder structure
 - Suggested README content
 - Suggested initial notebook workflow
-
-## Notes
-All AI-generated suggestions were reviewed before use.
