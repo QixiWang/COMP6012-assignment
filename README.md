@@ -41,7 +41,8 @@ COMP6012-assignment/
 ├── README.md                        # Project documentation
 └── .gitignore
 
-Dataset Description
+---
+## Dataset Description
 
 The project uses a dataset containing corresponding blurred, deblurred, and sharp/reference images for object detection analysis.
 
