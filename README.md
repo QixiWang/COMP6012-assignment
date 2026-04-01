@@ -1,4 +1,4 @@
-# COMP6012 Assignment 1
+# COMP6001 Assignment 1
 
 ## Project Title
 Image Restoration and Object Detection under Motion Blur
@@ -29,7 +29,7 @@ The main notebook for the assignment is `assignment1.ipynb`.
 ## Repository Structure
 
 ```text
-COMP6012-assignment/
+COMP6001-assignment1/
 ├── ai_logs/                         # AI prompt / output records used during development
 ├── data/                            # Original dataset files
 ├── prepared_dataset/                # Processed dataset with train/val/test splits
@@ -120,8 +120,8 @@ Overall, the results suggest that **domain adaptation through fine-tuning is mor
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/QixiWang/COMP6012-assignment.git
-cd COMP6012-assignment
+git clone https://github.com/QixiWang/COMP6001-assignment1.git
+cd COMP6001-assignment1
 ```
 
 ### 2. Create and activate a virtual environment
